@@ -205,4 +205,3 @@ visualize_model(model_conv)
 
 plt.ioff()
 plt.show()
-
